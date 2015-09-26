@@ -2,26 +2,23 @@
 	background-color: #f9f4f4;
 }
 
-.Header {
+h1 {
 	font-family: 'Cinzel', sans-serif;
 	text-align: center;
+	padding-top: 20px;
 }
 
-
-body {
-
-	width: 50px, 50px;
-	padding-top: 50px;
+.nav {
+	padding-top: 6.5%;
 	text-align: center;
 	word-spacing: 30px;
-s
 }
 
-a {
+.nav a {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
 	color: black;
+	display:inline;
+	text-decoration: none;
+	caption-side: bottom;
 }
-i.big.laptop.icon {
-	text-decoration: none;s
-}
-
-
