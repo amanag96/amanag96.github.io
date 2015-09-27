@@ -14,11 +14,46 @@ h1 {
 	word-spacing: 30px;
 }
 
-.nav a {
+a {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	color: black;
 	display:inline;
 	text-decoration: none;
-	caption-side: bottom;
+}
+
+.active {
+	font-weight: 900;
+	color: #434242;
+}
+
+#school {
+	font-family: 'Roboto', sans-serif;
+	padding-top: 3%;
+	padding-left: 10%;
+}
+
+#contact {
+	font-family: 'Roboto', sans-serif;
+	padding-top: 3%;
+	word-spacing: 30px;
+	text-align: center;
+
+}
+
+#more {
+	font-family: 'Roboto', sans-serif;
+	padding-top: 3%;
+	padding-left: 10%;
+}
+
+#projects {
+	font-family: 'Roboto', sans-serif;
+	padding-top: 3%;
+	padding-left: 10%;
+}
+
+h2 {
+	font-family: 'Cinzel', sans-serif;
+	font-style: bold;
 }
