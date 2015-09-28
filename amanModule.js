@@ -4,6 +4,11 @@ amanswebsite.config(function ($stateProvider, $urlRouterProvider) {
     
     $stateProvider
     
+        .state('landing', {
+            url: '/landing',
+            templateUrl: 'html/landing-partial.html'
+        })
+
         .state('school', {
             url: '/school',
             templateUrl: 'html/school-partial.html'
@@ -26,6 +31,6 @@ amanswebsite.config(function ($stateProvider, $urlRouterProvider) {
             // OR could have just one html page
         })
 
-    $urlRouterProvider.otherwise('/school');
+    $urlRouterProvider.otherwise('/landing');
 
 });

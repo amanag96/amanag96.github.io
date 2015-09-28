@@ -57,3 +57,17 @@ h2 {
 	font-family: 'Cinzel', sans-serif;
 	font-style: bold;
 }
+
+#landing {
+	padding-top: 2%;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+#landing img {
+	padding-left: 44%;
+}
+
+#more img {
+	padding-left: 39%;
+}
