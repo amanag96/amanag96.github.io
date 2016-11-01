@@ -1,26 +1,80 @@
-*{
-	background-color: #FEFEFC;
-	font-family: 'Lato', sans-serif;
-}
-a {
-	text-decoration: none;
-}
-.profiles {
-	color: #146054;
-	font-size: 17px;
-}
-
-.links {
-	color: #955251;
-}
-
-body {
-	margin-top: 5%;
-	margin-left: 5%;
-	margin-right: 35%;
+* {
+	background-color: black;
 }
 
 img {
+	max-width: 100%;
+  position: absolute;
+  top: 0; bottom: 10%; left: 0; right:0;
+  margin: auto;
+}
+
+h1 {
+	position: static;
+	font-family: 'Raleway';
+	font-weight: 100;
+	color: white;
+	text-align: center;
+	padding-top: 27.5%;
+}
+.nav {
+	position: fixed;
+	padding-bottom: 6.5%;
+	text-align: center;
 	width: 200px;
-	height: auto;
+}
+
+a {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 200;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+
+.active {
+	text-align: center;
+	color: #434242;
+}
+
+#school {
+	font-family: 'Raleway', sans-serif;
+	padding-top: 3%;
+	padding-left: 10%;
+	text-align: center;
+}
+
+#contact {
+	font-family: 'Raleway', sans-serif;
+	padding-top: 3%;
+	word-spacing: 30px;
+	text-align: center;
+
+}
+
+#more {
+	font-family: 'Raleway', sans-serif;
+	padding-top: 3%;
+	padding-left: 10%;
+}
+
+#projects {
+	font-family: 'Raleway', sans-serif;
+	padding-top: 3%;
+	padding-left: 10%;
+}
+
+#landing {
+	padding-top: 2%;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+#landing img {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#more img {
+	padding-left: 39%;
 }
