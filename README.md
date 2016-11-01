@@ -1,3 +1,7 @@
-# amanag96.github.io
+This is the repo for my personal website. Check it out at:
 
-Personal Website.
+amanag96.github.io
+
+Best,
+
+Aman

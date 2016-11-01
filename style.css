@@ -1,73 +1,26 @@
-* {
-	background-color: #f9f4f4;
+*{
+	background-color: #FEFEFC;
+	font-family: 'Lato', sans-serif;
 }
-
-h1 {
-	font-family: 'Cinzel', sans-serif;
-	text-align: center;
-	padding-top: 20px;
-}
-
-.nav {
-	padding-top: 6.5%;
-	text-align: center;
-	word-spacing: 30px;
-}
-
 a {
-	font-family: 'Roboto', sans-serif;
-	font-weight: 400;
-	color: black;
-	display:inline;
 	text-decoration: none;
 }
-
-.active {
-	font-weight: 900;
-	color: #434242;
+.profiles {
+	color: #146054;
+	font-size: 17px;
 }
 
-#school {
-	font-family: 'Roboto', sans-serif;
-	padding-top: 3%;
-	padding-left: 10%;
+.links {
+	color: #955251;
 }
 
-#contact {
-	font-family: 'Roboto', sans-serif;
-	padding-top: 3%;
-	word-spacing: 30px;
-	text-align: center;
-
+body {
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 35%;
 }
 
-#more {
-	font-family: 'Roboto', sans-serif;
-	padding-top: 3%;
-	padding-left: 10%;
-}
-
-#projects {
-	font-family: 'Roboto', sans-serif;
-	padding-top: 3%;
-	padding-left: 10%;
-}
-
-h2 {
-	font-family: 'Cinzel', sans-serif;
-	font-style: bold;
-}
-
-#landing {
-	padding-top: 2%;
-	font-family: 'Roboto', sans-serif;
-	text-align: center;
-}
-
-#landing img {
-	padding-left: 44%;
-}
-
-#more img {
-	padding-left: 39%;
+img {
+	width: 200px;
+	height: auto;
 }
