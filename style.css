@@ -1,26 +1,27 @@
 *{
 	background-color: #FEFEFC;
-	font-family: 'Lato', sans-serif;
-}
-a {
-	text-decoration: none;
-}
-.profiles {
-	color: #146054;
-	font-size: 17px;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
-.links {
-	color: #955251;
+h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	color: #004488;
+	text-decoration: none;
 }
 
 body {
-	margin-top: 5%;
-	margin-left: 5%;
-	margin-right: 35%;
+	margin: 5%;
 }
 
 img {
-	width: 200px;
-	height: auto;
+	height: 100%;
+	float: left;
+	margin-right: 2%;
 }
